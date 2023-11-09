@@ -5,6 +5,6 @@ Welcome to my PHP-based Ecommerce Project, where seamless online shopping meets 
 
 
 
+![image](https://github.com/hiMadhusudan/ecom-store/assets/76695160/acc5b710-a2c8-4bcd-8a94-2e1543075144)
 
-https://github.com/hiMadhusudan/ecom-store/assets/76695160/0a9a046e-b1eb-4dbd-b887-691a8d1fd6f2
 
